@@ -13,4 +13,5 @@ D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.Mus
 D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.CreateUserForm.resources
 D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.AlbumsListForm.resources
 D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.TracksForm.resources
-D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Mediacentr.csprojResolveAssemblyReference.cache
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\bin\Debug\ChoiseUserForm.exe.CodeAnalysisLog.xml
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\bin\Debug\ChoiseUserForm.exe.lastcodeanalysissucceeded
