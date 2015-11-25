@@ -1,0 +1,17 @@
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\bin\Debug\ChoiseUserForm.exe.config
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\bin\Debug\ChoiseUserForm.exe
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\bin\Debug\ChoiseUserForm.pdb
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Mediacentr.csproj.GenerateResource.Cache
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\ChoiseUserForm.exe
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\ChoiseUserForm.pdb
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.Properties.Resources.resources
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.AboutForm.resources
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.LogForm.resources
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.MainForm.resources
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.ChangeInfoForm.resources
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.MusicMainForm.resources
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.CreateUserForm.resources
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.AlbumsListForm.resources
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\obj\Debug\Media.TracksForm.resources
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\bin\Debug\ChoiseUserForm.exe.CodeAnalysisLog.xml
+D:\Навчання\Курсова\Mediacentr\ChoiseUserForm\bin\Debug\ChoiseUserForm.exe.lastcodeanalysissucceeded
